@@ -138,16 +138,4 @@ const zulian = {
 
 <div align="center">
   
-### 💖 Support My Work
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
 
-</div>
-
----
-
-> **Note:**  
-> - Replace `username-github` with your actual GitHub username throughout the document
-> - Update email, LinkedIn, Instagram, and other profile links
-> - Add your actual project repository names and links
-> - To set up the contribution snake animation, follow the guide at [Platane/snk](https://github.com/Platane/snk)
