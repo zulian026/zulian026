@@ -1,25 +1,24 @@
 <div align="center">
 
-# 👋 Hey, I'm Zulian Alhisyam
+<img src="./assets/banner.png" width="100%" alt="Zulian Alhisyam — Full-Stack Developer">
+
+<br/>
 
 ### Full-Stack Developer · Problem Solver · Builder
 
 <p>
   <a href="https://github.com/zulian026">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:zulianalhisyam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/zulian-alhisyam-175414363/">
-    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/zyanx_04">
-    <img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Writing+clean+and+maintainable+code;Turning+ideas+into+real+products;Always+learning%2C+always+building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Creating+useful+developer+tools;Writing+clean+and+maintainable+code;Always+learning.+Always+building." alt="Typing SVG">
 
 </div>
 
@@ -27,9 +26,11 @@
 
 ## `> whoami`
 
-I'm a **Full-Stack Developer** focused on building modern, scalable, and maintainable web applications.
+I'm **Zulian Alhisyam**, a Full-Stack Developer who enjoys turning ideas into practical software.
 
-I enjoy working across the entire development stack — from designing interfaces and building APIs to managing databases, deployment, and developer tooling.
+My interests span from modern web applications and backend systems to Linux desktop tools and developer-focused projects.
+
+I care about **clean architecture, good user experience, maintainable code, and continuous learning.**
 
 ```ts
 const zulian = {
@@ -66,12 +67,29 @@ const zulian = {
   tools: [
     "Git",
     "Docker",
+    "Linux",
     "Figma",
     "Postman"
   ],
 
-  currentlyBuilding: "Useful things that solve real problems."
+  mindset: "Build → Learn → Improve → Repeat"
 };
+```
+
+---
+
+## `> currently`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🔨  Building       useful software & real-world projects   │
+│  🌐  Developing     modern full-stack applications          │
+│  🐧  Exploring      Linux & desktop development             │
+│  🧠  Learning       system design & software architecture   │
+│  🚀  Improving      code quality & developer experience     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -82,59 +100,75 @@ const zulian = {
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" alt="Frontend Technologies">
+
+<br/><br/>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" alt="Backend Technologies">
+
+<br/><br/>
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Database Technologies">
+
+<br/><br/>
 
 ### Tools & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma,postman" alt="Tools and Infrastructure">
 
 </div>
 
 ---
 
-## 🚀 What I Build
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/zulian026/voltify">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zulian026&repo=voltify&theme=tokyonight&hide_border=true&border_radius=12" alt="Voltify">
+</a>
+
+<a href="https://github.com/zulian026/zeroclicker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zulian026&repo=zeroclicker&theme=tokyonight&hide_border=true&border_radius=12" alt="ZeroClicker">
+</a>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Web Applications
+### ⚡ Voltify
 
-Modern and responsive applications with strong architecture and clean UI.
+A modern software project focused on building a clean and scalable application architecture.
 
-</td>
+**Focus**
 
-<td width="50%">
-
-### ⚙️ Backend Systems
-
-REST APIs, authentication, database systems, and scalable backend services.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🖥️ Developer Tools
-
-Building useful tools that improve workflows and solve everyday problems.
+* Modern frontend architecture
+* Component-driven development
+* Clean project structure
+* Developer experience
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧪 Experimental Projects
+### 🖱️ ZeroClicker
 
-Exploring new technologies, architectures, and ideas through hands-on projects.
+A modern Linux auto-clicker application designed with a native desktop experience in mind.
+
+**Focus**
+
+* Linux desktop
+* Native performance
+* Modern UI
+* Automation tooling
 
 </td>
 </tr>
@@ -142,50 +176,27 @@ Exploring new technologies, architectures, and ideas through hands-on projects.
 
 ---
 
-## ⭐ Featured Projects
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/zulian026">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zulian026&repo=REPLACE_WITH_PROJECT_1&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zulian026&show_icons=true&hide_border=true&border_radius=12&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Statistics">
 
-<a href="https://github.com/zulian026">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zulian026&repo=REPLACE_WITH_PROJECT_2&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulian026&layout=compact&hide_border=true&border_radius=12&theme=tokyonight&langs_count=8" alt="Top Languages">
 
-</div>
+<br/><br/>
 
-> 💡 Replace the repository names above with your actual best projects.
-> Ideally showcase **2–4 projects**, not every repository.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zulian026&show_icons=true&hide_border=true&border_radius=12&theme=tokyonight&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulian026&layout=compact&hide_border=true&border_radius=12&theme=tokyonight&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=zulian026&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://streak-stats.demolab.com?user=zulian026&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak">
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zulian026&theme=tokyo-night&hide_border=true&area=true&radius=12" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zulian026&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution Graph">
 
 </div>
 
@@ -195,50 +206,41 @@ Exploring new technologies, architectures, and ideas through hands-on projects.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zulian026/zulian026/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/zulian026/zulian026/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 
 </div>
 
 ---
 
-## 🧠 Currently Learning
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   TypeScript        ████████████████████░░   90%        │
-│   Next.js           ███████████████████░░░   85%        │
-│   Backend           ██████████████████░░░░   80%        │
-│   System Design     ███████████████░░░░░░   70%        │
-│   DevOps            ██████████████░░░░░░░   65%        │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-> Progress bars are intentionally approximate — they're a snapshot of what I'm focusing on, not a measure of mastery.
-
----
-
 ## 🎯 2026 Goals
 
-* [ ] Build and ship more production-ready applications
-* [ ] Improve system design and software architecture
-* [ ] Contribute to open-source projects
-* [ ] Build useful Linux / developer tooling
-* [ ] Write cleaner, more maintainable code
-* [ ] Keep learning and experimenting
+```text
+[x] Build real-world applications
+[x] Improve full-stack development skills
+[x] Explore Linux development
+
+[ ] Contribute to open source
+[ ] Improve system design knowledge
+[ ] Build more production-ready software
+[ ] Ship projects consistently
+[ ] Keep learning new technologies
+```
 
 ---
 
-## 💭 Developer Philosophy
+## 🧠 Development Philosophy
 
-> **"Build things that are useful.
-> Keep the code simple.
-> Learn from every problem."**
+<div align="center">
 
-I believe good software isn't just about making something work.
+> **Build things that are useful.**
+> **Keep the code simple.**
+> **Learn from every problem.**
 
-It's about making it **understandable, maintainable, and useful.**
+<br/>
+
+`BUILD` → `BREAK` → `DEBUG` → `LEARN` → `IMPROVE` → `SHIP`
+
+</div>
 
 ---
 
@@ -246,17 +248,18 @@ It's about making it **understandable, maintainable, and useful.**
 
 <div align="center">
 
-If you're interested in technology, open source, or building something together — feel free to reach out.
+I'm always interested in technology, open-source projects,
+and building useful things.
 
 <br/>
 
 <a href="mailto:zulianalhisyam@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Talk-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/LET'S%20TALK-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Talk">
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=zulian026&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" />
+<a href="https://www.linkedin.com/in/zulian-alhisyam-175414363/">
+<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 </div>
 
@@ -264,7 +267,9 @@ If you're interested in technology, open source, or building something together 
 
 <div align="center">
 
-### Thanks for stopping by! 👋
+<img src="https://komarev.com/ghpvc/?username=zulian026&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views">
+
+<br/><br/>
 
 <sub>Built with curiosity, caffeine, and a questionable amount of debugging.</sub>
 
