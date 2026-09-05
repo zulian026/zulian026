@@ -1,115 +1,192 @@
 <div align="center">
-  
-# Zulian Alhisyam
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Passionate+Fullstack+Developer;Clean+Code+Enthusiast;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
+# 👋 Hey, I'm Zulian Alhisyam
+
+### Full-Stack Developer · Problem Solver · Builder
 
 <p>
-  <a href="mailto:zulianalhisyam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/zulian-alhisyam-175414363/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/zyanx_04"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://github.com/zulian026"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/zulian026">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:zulianalhisyam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/zulian-alhisyam-175414363/">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/zyanx_04">
+    <img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Writing+clean+and+maintainable+code;Turning+ideas+into+real+products;Always+learning%2C+always+building" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `> whoami`
 
-```javascript
+I'm a **Full-Stack Developer** focused on building modern, scalable, and maintainable web applications.
+
+I enjoy working across the entire development stack — from designing interfaces and building APIs to managing databases, deployment, and developer tooling.
+
+```ts
 const zulian = {
-  code: ["JavaScript", "PHP", "TypeScript", "HTML", "CSS"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Vue", "Next.js"],
-      css: ["Tailwind", "Bootstrap", "SASS"]
-    },
-    backEnd: {
-      php: ["Laravel", "CodeIgniter"],
-      js: ["Node.js", "Express"]
-    },
-    databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    devOps: ["Docker", "Git", "CI/CD"],
-    tools: ["VS Code", "Postman", "Figma"]
-  },
-  currentFocus: "Building scalable web applications with clean architecture",
-  funFact: "I debug with console.log and refuse to admit it's not the best way"
+  role: "Full-Stack Developer",
+
+  languages: [
+    "TypeScript",
+    "JavaScript",
+    "PHP",
+    "HTML",
+    "CSS"
+  ],
+
+  frontend: [
+    "React",
+    "Next.js",
+    "Vue",
+    "Tailwind CSS"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express",
+    "Laravel",
+    "CodeIgniter"
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB"
+  ],
+
+  tools: [
+    "Git",
+    "Docker",
+    "Figma",
+    "Postman"
+  ],
+
+  currentlyBuilding: "Useful things that solve real problems."
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" />
 
 ### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+### Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma,postman" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Applications
+
+Modern and responsive applications with strong architecture and clean UI.
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend Systems
+
+REST APIs, authentication, database systems, and scalable backend services.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🖥️ Developer Tools
+
+Building useful tools that improve workflows and solve everyday problems.
+
+</td>
+
+<td width="50%">
+
+### 🧪 Experimental Projects
+
+Exploring new technologies, architectures, and ideas through hands-on projects.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⭐ Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username-github&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-github&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+
+<a href="https://github.com/zulian026">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zulian026&repo=REPLACE_WITH_PROJECT_1&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+<a href="https://github.com/zulian026">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zulian026&repo=REPLACE_WITH_PROJECT_2&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
 </div>
 
+> 💡 Replace the repository names above with your actual best projects.
+> Ideally showcase **2–4 projects**, not every repository.
+
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username-github&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zulian026&show_icons=true&hide_border=true&border_radius=12&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulian026&layout=compact&hide_border=true&border_radius=12&theme=tokyonight&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=zulian026&theme=tokyonight&hide_border=true&border_radius=12" />
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=username-github&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📌 Featured Projects
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=username-github&repo=project-name&theme=tokyonight&hide_border=true)](https://github.com/username-github/project-name)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=username-github&repo=another-project&theme=tokyonight&hide_border=true)](https://github.com/username-github/another-project)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zulian026&theme=tokyo-night&hide_border=true&area=true&radius=12" />
 
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=username-github&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -117,23 +194,78 @@ const zulian = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/username-github/username-github/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/zulian026/zulian026/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   TypeScript        ████████████████████░░   90%        │
+│   Next.js           ███████████████████░░░   85%        │
+│   Backend           ██████████████████░░░░   80%        │
+│   System Design     ███████████████░░░░░░   70%        │
+│   DevOps            ██████████████░░░░░░░   65%        │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+> Progress bars are intentionally approximate — they're a snapshot of what I'm focusing on, not a measure of mastery.
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] Build and ship more production-ready applications
+* [ ] Improve system design and software architecture
+* [ ] Contribute to open-source projects
+* [ ] Build useful Linux / developer tooling
+* [ ] Write cleaner, more maintainable code
+* [ ] Keep learning and experimenting
+
+---
+
+## 💭 Developer Philosophy
+
+> **"Build things that are useful.
+> Keep the code simple.
+> Learn from every problem."**
+
+I believe good software isn't just about making something work.
+
+It's about making it **understandable, maintainable, and useful.**
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+If you're interested in technology, open source, or building something together — feel free to reach out.
+
+<br/>
+
+<a href="mailto:zulianalhisyam@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Talk-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=zulian026&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" />
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💡 Random Dev Quote
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### Thanks for stopping by! 👋
 
-### 👀 Profile Views
-  
-![](https://komarev.com/ghpvc/?username=username-github&color=blueviolet&style=for-the-badge)
+<sub>Built with curiosity, caffeine, and a questionable amount of debugging.</sub>
 
 </div>
-
----
-
-<div align="center">
